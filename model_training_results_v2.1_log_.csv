@@ -1,0 +1,4 @@
+Timestamp,Label,n_estimators,max_depth,min_samples_leaf,max_leaf_nodes,random_state,criterion,max_features,RMSE,MAE,R2_Score,Input_Data_Files,Contributor
+2024-08-09T19:50:06,Model_Run_20240809T195006,300,,3,,42,squared_error,sqrt,6.5017316926583755,18.825620827035983,0.9961228789023407,"clean_2024-01-28.json, clean_2024-01-29.json, clean_2024-01-30.json, clean_2024-01-31.json",Nada
+2024-08-09T21:18:36,Model_Run_20240809T211836,300,,3,,42,squared_error,sqrt,22.889099516821602,398.84623408813525,0.4042803392019172,"clean_2024-01-28.json, clean_2024-01-29.json, clean_2024-01-30.json, clean_2024-01-31.json",Nada
+2024-08-16T20:59:47,Model_Run_20240816T205947,800,10,4,Default,42,Default,,22.804526908034514,390.49572726804627,0.4040463724914317,"clean_2024-01-28.json, clean_2024-01-29.json, clean_2024-01-30.json, clean_2024-01-31.json",Nada
