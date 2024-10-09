@@ -1,0 +1,8 @@
+1. Join the merchant Id data to the original data
+2. Check for any nulls when right joining on the original data
+3. drop the nulls after transferring them to a different dataframe to report missing
+4. group data by merchant id
+5. For each group detect stationary intervals (without smoothening or tolerance)
+6. pick the longest
+7. Compare the coordinates (they should all match each other)
+8. If not, take the coordinate with a majority vote and search for it in the stationary intervals of the odd trips
