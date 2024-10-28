@@ -6,3 +6,5 @@ Cleaning/
 merchants_csv/order_merchant_id_anon.parquet
 merchants_csv/order_merchant_id_anon.csv
 merchants_csv/all_merchant_info.csv
+Splitting/Segmented Trial Week/
+Splitting/corrected_pooling_jan.csv
