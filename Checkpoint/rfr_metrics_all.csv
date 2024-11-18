@@ -1,0 +1,5 @@
+algorithm,Average_RMSE,Average_MAE,Average_R2,Best_Hyperparameters
+dbscan,231.01278728613983,162.1155810162372,0.7139442248755001,"{'n_estimators': 150, 'min_samples_split': 15, 'min_samples_leaf': 4, 'max_depth': None}"
+hierarchical,230.38380969123725,161.38503621706107,0.7154997901598619,"{'n_estimators': 150, 'min_samples_split': 15, 'min_samples_leaf': 4, 'max_depth': None}"
+sting,229.59300821159252,160.27373336407743,0.7174495543849345,"{'n_estimators': 150, 'min_samples_split': 15, 'min_samples_leaf': 4, 'max_depth': None}"
+clique,229.96643773237872,160.70316717852367,0.7165296789435556,"{'n_estimators': 150, 'min_samples_split': 15, 'min_samples_leaf': 4, 'max_depth': None}"
