@@ -1,7 +1,0 @@
-1. Group by merchants and take the most-repetitive coordinates to fix outlier coordinates
-2. Detect the first occurrence of the pickup coordinates (from the pooling file)
-3. Detect stationarity around the time of the first occurrence and identify it as the waiting time
-4. Using the indices of the stationary interval, segment the trips into three different segments.
-
-
-Side note: need to fix the issue of having repeating final ping to avoid introducing wait times

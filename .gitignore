@@ -3,8 +3,18 @@ careem_rfr_jan_31_trained.ipynb
 careem_rfr_weekdays_trained.ipynb
 careem_rfr_lina.ipynb
 Cleaning/
+Splitting/truncated_trips.csv
 merchants_csv/order_merchant_id_anon.parquet
 merchants_csv/order_merchant_id_anon.csv
 merchants_csv/all_merchant_info.csv
 Splitting/Segmented Trial Week/
 Splitting/corrected_pooling_jan.csv
+Merchants_Segments_Filtered_01_28.json
+Clustering_Experiments/tuned_clustered_Trip_eta_predictions_with_trip_id.csv
+Checkpoint/
+Bus_Trips/
+new_road_df.csv
+Splitting/truncated_trips.csv
+Splitting/truncated_trips.csv
+Splitting/truncated_trips.json
+Miscellaneous/road_df_recent.csv
