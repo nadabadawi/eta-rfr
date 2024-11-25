@@ -1,0 +1,5 @@
+Folder contains all files taken from careem:
+1. anon_pooling_jan_24_amman.csv
+2. anon_pooling_feb_24_amman.csv
+3. order_merchant_id_anon.parquet
+4. pooling_pings_jan_24_amman_2024-01-01.csv for all of jan and feb

@@ -1,2 +1,6 @@
-Data/
-new_road_df.csv
+Data/careems_data/*
+!Data/careems_data/folder_contents.txt
+Data/clean_data/*
+!Data/clean_data/folder_contents.txt
+Data/segmented_trips/*
+!Data/segmented_trips/folder_contents.txt

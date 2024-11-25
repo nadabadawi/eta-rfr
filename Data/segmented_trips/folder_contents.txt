@@ -1,0 +1,2 @@
+Folder contains clean data files, which are outputted in Cleaning and Splitting.ipynb Section 2: Spliting Trips
+Files in the format: 'Segmented_Trips_01_01.json' and 'Merchants_Segments_01_01.json'

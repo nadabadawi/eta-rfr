@@ -1,0 +1,2 @@
+Folder contains clean data files, which are outputted in Cleaning and Splitting.ipynb Section 1: Data Cleaning
+Files in the format: 'clean_2024-01-01.json'
