@@ -1,4 +1,4 @@
-### To predict ETA from the time the driver gets assigned to a driver to when it gets delivered, Careem's data goes through 4 steps:
+### To predict total ETA, from the time the order gets assigned to a driver to when it gets delivered, Careem's data goes through 4 steps:
 
 #### 1. Data Cleaning and Splitting:
   Where incomplete trips are removed, data is reformatted for the models, and trips are split into 3 segments (Driver-to-Merchant, Wait-Time-at-Merchant, Merchant-to-Customer).
