@@ -1,4 +1,4 @@
-### To predict ETA from the time the driver gets assigned to a driver to when it gets delivered, Careem's data goes through 4 steps:
+### To predict total ETA, from the time the order gets assigned to a driver to when it gets delivered, Careem's data goes through 4 steps:
 
 (If data is already clean and split you can start from step 2)
 
