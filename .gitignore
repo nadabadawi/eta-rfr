@@ -4,3 +4,4 @@ Data/clean_data/*
 !Data/clean_data/folder_contents.txt
 Data/segmented_trips/*
 !Data/segmented_trips/folder_contents.txt
+Clustering and RFR Outputs/RFR_Model_Weights.pkl
